@@ -1,0 +1,6 @@
+{
+  "name": "Traffic Accident Analysis and Risk Prediction System",
+  "description": "An AI-powered smart-city application that visualizes historic traffic accidents on CartoDB maps, clusters risk hotspots, uses Machine Learning algorithms (Random Forest, Decision Tree, Logistic Regression) to predict accident risk probabilities, and offers safe route recommendations and policy advice via the Gemini-3.5-flash API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
